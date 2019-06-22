@@ -1,0 +1,7 @@
+Concernant l'aplication console delphi
+
+
+1/ Copier et coller les dossiers EmpDb et EmpFolder Dans le chemin c:\inetpub\wwwroot
+2/ créer l'odbc paradx  sous le nom  ParadoxOdbc  (pour le system 64x) (dans le chemin c:\windows\sysWOW64 lancer odbcad32.exe
+3/ installer BorlandDatabaseEnginev5.0.1.33
+4/ copier GMOE.EXE dans c:\inetpub\wwwroot
